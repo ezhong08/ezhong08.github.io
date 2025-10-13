@@ -1,15 +1,15 @@
 import { Container, Col, Row } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg4 from "../assets/img/gptreadingbuddy.jpg";
+import projImg4 from "../assets/img/platformer.gif";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 
 export const Projects = () => {
     const projects = [
         {
-            title: "ChatGPT Chrome Plugin",
-            description: "Coming soon! A Chrome extension that uses OpenAI's API to define/explain user-selected text so users never have to leave the webpage to learn what something means.",
+            title: "Platformer Without Platform",
+            description: "This project, A Platformer Without Platforms, is a 2D platformer. However, unlike traditional platformers, there are no platforms for the player to rest on.",
             imgUrl: projImg4,
-            projUrl: "https://github.com/"
+            projUrl: "https://github.com/ezhong08/Platformer-Without-Platform"
         },
     ];
     return (
