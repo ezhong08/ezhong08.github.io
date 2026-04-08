@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba790fc8.css",
+    "main.js": "/static/js/main.3bf8ab91.js",
+    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.ce1bc343d487e0d73b1d.jpg",
+    "static/media/cornell_logo.png": "/static/media/cornell_logo.6cee5d16bab83e23be6b.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/threevillage_logo.png": "/static/media/threevillage_logo.68ac2de454bbe62c04e0.png",
+    "static/media/platformer.gif": "/static/media/platformer.f69acd7b6db5db4ca053.gif",
+    "index.html": "/index.html",
+    "static/media/nav-github.svg": "/static/media/nav-github.d3c109be9b269596a4b1f95c011ac150.svg",
+    "main.ba790fc8.css.map": "/static/css/main.ba790fc8.css.map",
+    "main.3bf8ab91.js.map": "/static/js/main.3bf8ab91.js.map",
+    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba790fc8.css",
+    "static/js/main.3bf8ab91.js"
+  ]
+}
