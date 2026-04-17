@@ -17,7 +17,8 @@ export const About = () => {
                 C++ and web technologies like React (this website :))!
               </p>
               <p>
-                Outside of class, I play tennis, drive for{" "}
+                Outside of class, I play tennis (usually casually with my
+                parents), drive for{" "}
                 <a
                   href="https://www.spiritracingsystems.com/"
                   target="_blank"
@@ -25,8 +26,15 @@ export const About = () => {
                 >
                   Spirit Racing Systems
                 </a>
-                , and improve the campus dining experience in Dining Student
-                Advisory Council.
+                , and assist others in creating forum games on{" "}
+                <a
+                  href="https://artofproblemsolving.com/community"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Art of Problem Solving's forums
+                </a>
+                .
               </p>
               <p>
                 Be sure to check out my other <a href="/projects"> Projects</a>{" "}
